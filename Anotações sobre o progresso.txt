@@ -1,0 +1,1 @@
+Com muitas práticas e foco, podemos nos habituar com o uso do Git bash para commitar e subir os códigos.
